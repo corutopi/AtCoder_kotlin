@@ -1,6 +1,7 @@
 # ignore IntelliJ data
 .idea/
 *.iml
+out/
 
 # Compiled class file
 *.class
