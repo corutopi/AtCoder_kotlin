@@ -1,3 +1,6 @@
+package ABC.at167
+
+
 fun main() {
     val S = readLine()!!
     val T = readLine()!!
