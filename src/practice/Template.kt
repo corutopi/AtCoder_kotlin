@@ -6,9 +6,9 @@ fun solve() {
 }
 
 fun main() {
-//    val S = readLine()!!
-//    val N = readLine()!!.toInt()
-//    val (N, M) = readLine()!!.split(" ").map { it.toInt() }
-//    val A = readLine()!!.split(" ").map { it.toInt() }
+//    val s = readLine()!!
+//    val n = readLine()!!.toInt()
+//    val (n, m) = readLine()!!.split(" ").map { it.toInt() }
+//    val a = readLine()!!.split(" ").map { it.toInt() }
     solve()
 }
