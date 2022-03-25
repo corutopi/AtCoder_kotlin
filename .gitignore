@@ -1,3 +1,6 @@
+# ignore other data
+other/
+
 # ignore IntelliJ data
 .idea/
 *.iml
